@@ -13,7 +13,8 @@ const phrases = [
     "You is kind, you is smart, you is important.",
     "Carpe diem",
     "If plan A doesn't work, there's a whole alphabet",
-    "You still haven't met all the people who are doing to love you..",
+    "You still haven't met all the people who are going to love you..",
+    "Hope. It is the only thing stronger than fear.",
     "No act of kindness is ever wasted, especially when it's for a stray cat who had nothing.."
 ];
 
